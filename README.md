@@ -2,7 +2,7 @@
 
 > An end-to-end HR Attrition Analysis Dashboard built with Power BI, uncovering workforce trends across departments, salary bands, age groups, and job roles.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
